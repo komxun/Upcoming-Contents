@@ -2,6 +2,7 @@
 
 ## Space 
 - Dynamic Mode Decomposition (DMD)
+- DMD to identify inverted pendulum dynamics
 - DMD to identify perturbed orbit dynamics
 - DMD with Poincare map
 
