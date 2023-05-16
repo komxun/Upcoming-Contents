@@ -40,3 +40,5 @@
 (https://grabcad.com/komsun.tamanakijprasart-1)
 - [ ] Tarot T-2D V2 GoPro 3 Brushless Gimbal 
 - [ ] FlySky remote controller
+- [ ] Wireless Power Transmission pad
+- [ ] Flying Arena
