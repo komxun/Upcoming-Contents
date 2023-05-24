@@ -38,7 +38,7 @@
 ## Fortran
 (to be updated)
 
-# GrabCAD
+# 3D CAD
 (https://grabcad.com/komsun.tamanakijprasart-1)
 - [ ] Tarot T-2D V2 GoPro 3 Brushless Gimbal 
 - [ ] FlySky remote controller
