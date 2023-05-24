@@ -10,6 +10,8 @@
 - [ ] PLOS algorithm
 - [ ] NLGL algorithm
 - [ ] GENEX 
+- [x] IFDS algorithm
+- [ ] Hybrid IFDS algorithm
 
 ## System Control
 - [ ] DLQR via Dynamic Programming (DP)
