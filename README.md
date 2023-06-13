@@ -7,7 +7,7 @@
 - [ ] DMD with Poincare map
 
 ## Path Planning and Following
-- [ ] PLOS algorithm
+- [x] PLOS algorithm
 - [ ] NLGL algorithm
 - [ ] GENEX 
 - [x] IFDS algorithm
