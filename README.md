@@ -1,9 +1,10 @@
 # Upcoming-Contents
 
 ## C++
-- [ ] C++ in 21 days (Week 1)
-- [ ] C++ in 21 days (Week 2)
-- [ ] C++ in 21 days (Week 3)
+- [x] C++ in 21 days Part 1 (Day 1 - 5)
+- [ ] C++ in 21 days Part 2 (Day 6 - 10)
+- [ ] C++ in 21 days Part 3 (Day 11 - 15)
+- [ ] C++ in 21 days Part 4 (Day 16 - 21)
 
 ## Space 
 - [ ] Dynamic Mode Decomposition (DMD)
