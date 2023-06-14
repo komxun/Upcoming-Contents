@@ -24,7 +24,7 @@
 - [ ] Room cleaning problem
 
 ## Simulink
-- [ ] UAS Modeling (with manual MATLAB code)
+- [x] UAS Modeling and simulation
 - [ ] PID tuning with Simulink
 
 ## Sensor Fusion
