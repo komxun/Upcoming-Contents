@@ -6,6 +6,10 @@
 - [ ] C++ in 21 days Part 3 (Day 11 - 15)
 - [ ] C++ in 21 days Part 4 (Day 16 - 21)
 
+## Python
+- [ ] Optimization with Python
+- [ ] Systems Control with Python
+
 ## Space 
 - [ ] Dynamic Mode Decomposition (DMD)
 - [ ] DMD to identify inverted pendulum dynamics
